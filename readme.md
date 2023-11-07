@@ -6,15 +6,15 @@ L'utente, tramite la voce Personalize accessibile dal menù principale, potrà i
 
 ##### Comandi di default
 
-Up:  ^
-Down: v       
-Fire: click mouse
-Select: Enter
-Pause: Esc  
-Level start: 1 
-Number of levels: 2
-Volume:	80  
-Effects: 80  
+- Up:  ^
+- Down: v       
+- Fire: click mouse
+- Select: Enter
+- Pause: Esc  
+- Level start: 1 
+- Number of levels: 2
+- Volume:	80  
+- Effects: 80  
 
 ##### Come aggiungere ulteriori livelli
 
