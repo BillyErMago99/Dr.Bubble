@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BubbleShooter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BubbleShooter_jar</output-path>
+    <root id="archive" name="BubbleShooter.jar">
+      <element id="module-output" name="BubbleShooter" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/tritonus_share.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/mp3spi1.9.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

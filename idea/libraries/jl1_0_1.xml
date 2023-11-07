@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jl1.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../FlexmanTheGame-AlessandroSalvatori-EdoardoBoncristiano/FlexmanTheGame-AlessandroSalvatori-EdoardoBoncristiano/src/Libs/jl1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../FlexmanTheGame-AlessandroSalvatori-EdoardoBoncristiano/FlexmanTheGame-AlessandroSalvatori-EdoardoBoncristiano/src/Libs/mp3spi1.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../FlexmanTheGame-AlessandroSalvatori-EdoardoBoncristiano/FlexmanTheGame-AlessandroSalvatori-EdoardoBoncristiano/src/Libs/tritonus_share.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
